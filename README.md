@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizwan
 - 👀 I’m interested in Mobile & Web technologies 
-- 🌱 I’m currently working on Students Guide v9
+- 🌱 I’m currently working on Campus Companion
 - 💞️ I’m looking to collaborate on Android & NextJs projects 
 - 📫 How to reach me: riz1.xtreme@gmail.com
 
