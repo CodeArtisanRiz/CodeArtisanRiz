@@ -1,8 +1,8 @@
 👋 Hi, I'm Rizwan, aka CodeArtisanRiz (formerly xtremist96).
 
-💻 Android App Developer in Kotlin/Java | Flutter Enthusiast 🚀
+💻 Android App Developer in Python | JavaScript | Kotlin | Flutter Enthusiast 🚀
 
-🌐 Web Tech Explorer | PHP, JavaScript, React, Laravel aficionado.
+🌐 Web Tech Explorer | PHP, React, Laravel aficionado.
 
 <!--- 🌍 Explore more about me at [Techno3Gamma.in](https://techno3gamma.in). --->
 
