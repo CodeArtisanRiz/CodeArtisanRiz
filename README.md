@@ -1,6 +1,6 @@
 👋 Hi, I'm Rizwan, aka CodeArtisanRiz (formerly xtremist96).
 
-💻 Android App Developer in Python | JavaScript | Kotlin | Flutter Enthusiast 🚀
+💻 Developer: Python | JavaScript | Kotlin | Flutter Enthusiast 🚀
 
 🌐 Web Tech Explorer | PHP, React, Laravel aficionado.
 
